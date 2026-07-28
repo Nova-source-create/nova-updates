@@ -69,3 +69,6 @@ builder-effective-config.yaml
 # Private Nova key directories must never enter this repo.
 .nova-release-keys/
 Nova-Release-Keys/
+
+# Large release binaries are hosted externally
+releases/**/*.exe
