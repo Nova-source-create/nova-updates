@@ -10,5 +10,6 @@
   "sha256": "d380a14077e93a33cddd7a4d82be8f03637a5900080e07f746f75268f4b2ba7d",
   "createdAt": "2026-07-28T21:15:19.636Z",
   "signatureAlgorithm": "ed25519",
-  "signature": "9D6b6SgEmBbn2/2VbBW6cdYtfCVoIi2jLDV+4gUzqnVx4qNC96Us+ANnZa83HHY2QNOuPuV98YA1EqYF1ST0Bg=="
+  "signature": "9D6b6SgEmBbn2/2VbBW6cdYtfCVoIi2jLDV+4gUzqnVx4qNC96Us+ANnZa83HHY2QNOuPuV98YA1EqYF1ST0Bg==",
+  "url": "https://huggingface.co/Parzival6632/nova-models/resolve/main/releases/1.4.0/Nova-Setup-1.4.0.exe"
 }
