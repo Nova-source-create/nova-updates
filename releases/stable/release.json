@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "product": "Nova",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "channel": "stable",
   "platform": "windows",
   "arch": "x64",
-  "fileName": "Nova-Setup-1.4.3.exe",
-  "size": 372580351,
-  "sha256": "c57324f110137915aa47dc8432c3739abacaaafaa72eb679d67bc040a50d3b00",
-  "createdAt": "2026-07-29T21:54:22.602Z",
-  "url": "https://github.com/Nova-source-create/nova-updates/releases/download/v1.4.3/Nova-Setup-1.4.3.exe",
+  "fileName": "Nova-Setup-1.4.4.exe",
+  "size": 372581967,
+  "sha256": "efd7d591dff5d5373fdaeb59b2dd5c1c35b234fbd59e9e3e538773abeccf94e0",
+  "createdAt": "2026-07-30T15:27:47.784Z",
+  "url": "https://github.com/Nova-source-create/nova-updates/releases/download/v1.4.4/Nova-Setup-1.4.4.exe",
   "signatureAlgorithm": "ed25519",
-  "signature": "jHw0c8cWWyhpCIdysDpnjERvWjfgEWLdXwRQh3EGepGIVzRZvdbJ9Ki6WCikrlFZ3P9NYMqWdHuo690shTzlCw=="
+  "signature": "duCnt2FJjAjzxsEY01Kcu7tDC/vFISHBvhbnHl8Mn0feffwCKP0tgjRnMmlrR4nCws3FMqNL060Orql6gYbuBA=="
 }
